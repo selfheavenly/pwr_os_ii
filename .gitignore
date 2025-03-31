@@ -1,2 +1,4 @@
 # Ignore list
 *.DS_Store
+*output*.log
+*dining_philosophers
